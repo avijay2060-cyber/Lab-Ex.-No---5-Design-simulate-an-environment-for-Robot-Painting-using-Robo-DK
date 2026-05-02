@@ -199,11 +199,17 @@ Home target
 ##Program:
 /*
  
-Developed by: 
-RegisterNumber:  
+Developed by: A VIJAY
+RegisterNumber:212223080055
 */
  
 
  
+simulation:
+ ![image](https://github.com/user-attachments/assets/b4127737-178f-402c-b70c-b52d77e2a1ef)
+
+
 ## Results of simulation :
  
+
+## Results:The painting environment for a serial manipluator has been created and the surface for the same has been thaught.
